@@ -36,7 +36,6 @@
   <a href="https://mega.nz/" target="_blank">
     <img src="https://img.shields.io/badge/Mega-FF0000?style=for-the-badge&logo=mega&logoColor=white">
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://drive.google.com/" target="_blank">
