@@ -79,10 +79,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />
-  <img src="https://img.shields.io/badge/💾 Safe–Reliable-2d2d2d?style=flat-square&color=00ffff" />
-</p>
 
 <p align="center">
   Made with 💙 by <b>unique-error</b>
