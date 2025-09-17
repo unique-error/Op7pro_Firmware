@@ -33,11 +33,13 @@
 
 <p align="center">
   <a href="https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw" target="_blank">
-  <a href="https://drive.google.com/drive/folders/11I7hxR7691lriKYs2tc0U8AB-mIhJpYE?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Mega-111827?style=for-the-badge&logo=mega&logoColor=00ffff&color=2d2d2d" alt="Download Firmware" />
-    <img src="https://img.shields.io/badge/Gdrive-111827?style=for-the-badge&logo=Google drive&logoColor=00ffff&color=2d2d2d" alt="Download Firmware" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/11I7hxR7691lriKYs2tc0U8AB-mIhJpYE?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/GDrive-111827?style=for-the-badge&logo=googledrive&logoColor=00ffff&color=2d2d2d" alt="Download Firmware" />
   </a>
 </p>
+
 
 
 
