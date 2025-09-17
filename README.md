@@ -29,18 +29,17 @@
 
 ---
 
-## 💾 𝐅𝐢𝐫𝐦𝐰𝐚𝐫𝐞 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
+# 💾 𝐅𝐢𝐫𝐦𝐰𝐚𝐫𝐞 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
 
 <div align="center">
 
   <a href="https://mega.nz/" target="_blank">
     <img src="https://img.shields.io/badge/Mega-FF0000?style=for-the-badge&logo=mega&logoColor=white">
- </a>
+  </a>
   &nbsp;
-
   <a href="https://drive.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GDrive-4285F4?style=for-the-badge&logo=googledrive logoColor=white">
- </a>
+    <img src="https://img.shields.io/badge/GDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+  </a>
 
 </div>
 
