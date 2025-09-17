@@ -1,4 +1,4 @@
-![OnePlus 7 Pro Firmware Flasher](banner.png)
+![OnePlus 7 Pro Firmware Flasher](Banner.png)
 
 # OnePlus 7 Pro (Guacamole) Firmware Flasher
 
