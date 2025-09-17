@@ -12,12 +12,24 @@
 
 - **Supported Device:** OnePlus 7 Pro GM191X (Guacamole)  
 - **Device Regions:** China (XXX0), India (XXX1), Europe (XXX3), Global/NA (XXX5)  
-- **Firmware Download:** [Mega Link](https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw) ⚠️ Use **Standard download** on Mega; avoid nested ZIPs  
 - **Key Features:**  
   - Automatic RAM & device detection  
   - Flashes both A/B slots automatically  
   - Preserves data partition (no formatting)  
   - Optional modem.img update for region-specific 5G bands
+
+---
+
+## 💾 Firmware Download
+
+<p align="center">
+  <a href="https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw" target="_blank">
+    <img src="https://img.shields.io/badge/Mega-111827?style=for-the-badge&logo=mega&logoColor=00ffff&color=2d2d2d" alt="Download Firmware" />
+  </a>
+</p>
+
+
+
 
 ---
 
