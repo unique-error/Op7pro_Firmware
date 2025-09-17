@@ -31,14 +31,17 @@
 
 ## 💾 𝐅𝐢𝐫𝐦𝐰𝐚𝐫𝐞 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
 
-<p align="center">
-  <a href="https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw" target="_blank">
-    <img src="https://img.shields.io/badge/Mega-111827?style=for-the-badge&logo=mega&logoColor=00ffff&color=2d2d2d" alt="Download Firmware" />
+<div align="center">
+
+  <a href="https://mega.nz/" target="_blank">
+    <img src="https://img.shields.io/badge/Mega-FF0000?style=for-the-badge&logo=mega&logoColor=white">
   </a>
-  <a href="https://drive.google.com/drive/folders/11I7hxR7691lriKYs2tc0U8AB-mIhJpYE?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/GDrive-111827?style=for-the-badge&logo=googledrive&logoColor=00ffff&color=2d2d2d" alt="Download Firmware" />
+  <span style="margin: 0 8px;"></span>
+  <a href="https://drive.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
-</p>
+
+</div>
 
 
 
