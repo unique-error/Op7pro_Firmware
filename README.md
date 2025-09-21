@@ -33,7 +33,7 @@
 
 <div align="center">
 
-
+<table border="0">
   <tr>
     <td>
       <a href="https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw/" target="_blank">
@@ -49,14 +49,6 @@
 </table>
 
 </div>
-
-
-
-
-
-
-
-
 
 ---
 
