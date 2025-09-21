@@ -33,19 +33,23 @@
 
 <div align="center">
 
-  <span style="margin-right:15px;">
-    <a href="https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw/" target="_blank">
-      <img src="https://img.shields.io/badge/Mega-FF0000?style=for-the-badge&logo=mega&logoColor=white">
-    </a>
-  </span>
-
-  <span>
-    <a href="https://drive.google.com/drive/folders/11I7hxR7691lriKYs2tc0U8AB-mIhJpYE?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/GDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
-    </a>
-  </span>
+<table>
+  <tr>
+    <td>
+      <a href="https://mega.nz/folder/7chCAYIK#4HxIkN_7IV39SiOHQD5JUw/" target="_blank">
+        <img src="https://img.shields.io/badge/Mega-FF0000?style=for-the-badge&logo=mega&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://drive.google.com/drive/folders/11I7hxR7691lriKYs2tc0U8AB-mIhJpYE?usp=drive_link" target="_blank">
+        <img src="https://img.shields.io/badge/GDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 
