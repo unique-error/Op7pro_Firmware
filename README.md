@@ -69,9 +69,10 @@
 
 ## 🏆 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
-- **Nixsuki** ⟶ ɪɴɪᴛɪᴀʟ ᴏɴᴇᴘʟᴜs ғʟᴀsʜᴀʙʟᴇ ғɪʀᴍᴡᴀʀᴇs
-- **OPTeam** ⟶ ᴏxʏɢᴇɴᴏs ʙᴜɪʟᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ 
-- **Wishmasterflo** ⟶ ᴜᴘᴅᴀᴛᴇᴅ ғɪʀᴍᴡᴀʀᴇ ғʟᴀsʜᴇʀ 
+- **Nixsuki** ⟶ ɪɴɪᴛɪᴀʟ ᴏɴᴇᴘʟᴜs ғʟᴀsʜᴀʙʟᴇ ғɪʀᴍᴡᴀʀᴇs  
+- **OPTeam** ⟶ ᴏxʏɢᴇɴᴏs ʙᴜɪʟᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ  
+- **[Wishmasterflo](http://github.com/Wishmasterflo/Firmware_flasher)** ⟶ ᴜᴘᴅᴀᴛᴇᴅ ғɪʀᴍᴡᴀʀᴇ ғʟᴀsʜᴇʀ  
+ 
 
 ---
 
